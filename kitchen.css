@@ -1,0 +1,30 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px aqua;
+    border-radius: 10;
+}
+
+a
+{
+    font-size: 25px !important;
+    border-radius: 0px !important;
+    margin: 10px;
+    height: 45px;
+    width: 10%;
+    float:right;
+    background-color: black;
+    color: greenyellow;
+}
